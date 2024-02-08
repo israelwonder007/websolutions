@@ -1,0 +1,5 @@
+As a vendor, I want to add new products to my inventory with all details.
+As a vendor, I want to recieve notifications when certain products are running low in stock so that I can refill the stock in time.
+As a vendor, I want to filter the products so that I can easily manage and navigate through the large inventories. 
+As a vendor, I want to remove some products which are not available to sell so that the application won't have any unavailable products.
+As a vendor, I want a search bar so that I can search for a specific product from inventory.
