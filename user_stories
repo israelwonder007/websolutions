@@ -1,5 +1,5 @@
 As a vendor, I want to add new products to my inventory with all the details.
-As a vendor, I want to receive notifications when certain products are running low in stock so that I can refill the stock in time.
+As a vendor, I want to receive notifications for licence renewals, expirations.
 As a vendor, I want to filter the products so that I can easily manage and navigate through a large number of products/services. 
 As a vendor, I want to remove some products that are not available to sell so that the application won't have any unavailable products.
 As a vendor, I need a user-friendly interface that allows authorized users to enter, maintain, and view the vendor and their associated product data.
